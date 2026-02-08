@@ -76,5 +76,5 @@ tb_sync_fifo.v
 sync_fifo.vcd
 README.md
 
-**Conclusiom**
+**Conclusion**
 This project demonstrates the design and verification of a basic synchronous FIFO, which is a fundamental building block in VLSI and digital system design.
